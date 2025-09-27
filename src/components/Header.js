@@ -8,7 +8,7 @@ function Header() {
     <header className="header">
       <div className="header-banner">
         We only onboard 3 new salons per month — DM us on Instagram to secure your spot. 
-        <span className="highlight">@Krystal media</span> or <span className="highlight">@amelia_brown_</span>
+        <span className="highlight">@Aloura media</span> or <span className="highlight">@withlanareid</span>
       </div>
         <div className="logo-grid">
         <img src={logo} alt="Aloura Media Logo" className="logo" />
