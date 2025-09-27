@@ -61,7 +61,7 @@ function EmailForm() {
               <li><a href="https://drive.google.com/uc?export=download&id=1NE72_ruB0h_-A9LQVBKC8-ZFUGoYsWf8" target="_blank">Staff Training Tips & Rebooking Prompts</a></li>
             </ul>
             <p> Wishing you lots of continued success,</p>
-            <p>Amelia Brown </p>
+            <p>Lana Reid </p>
             <p>Aloura Media</p>
             <a href="mailto:team.aloura@gmail.com">team.aloura@gmail.com</a>
 
