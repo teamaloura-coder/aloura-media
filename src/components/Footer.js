@@ -7,7 +7,7 @@ function Footer() {
     <footer className="footer">
       {/* Left: Logo + Tagline */}
       <div className="footer-left">
-        <img src={logo} alt="Krystal logo" className="footer-logo" />
+        <img src={logo} alt="Aloura logo" className="footer-logo" />
         <p>Aloura Media — Growing with specialists.</p>
       </div>
 
