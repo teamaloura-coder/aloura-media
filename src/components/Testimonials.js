@@ -62,7 +62,7 @@ function Testimonials() {
 
 
     <section className="testimonials-section">
-    <h2 className="testimonials-heading">Salon Owners Who Love Krystal Media</h2>
+    <h2 className="testimonials-heading">Salon Owners Who Love Aloura Media</h2>
     <p className="scroll-note">Swipe or scroll → to see more testimonials</p>
     <div className="testimonials-scroll">
       {testimonials.map((t, index) => (
