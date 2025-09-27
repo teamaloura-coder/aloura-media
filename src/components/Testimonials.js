@@ -86,7 +86,7 @@ function Testimonials() {
     </div>
     <span className="scroll-hint">→</span>
     <p className="testimonial-note">
-      Testimonials from salon owners across UK, Canada, Italy, Cyprus and the USA.
+      Testimonials from salon owners across UK, Australia, Italy, Portugal and the USA.
     </p>
   </section>
 
